@@ -10,11 +10,11 @@ I have more than 1 year experience working with ruby on rails .
   
 **Miscellaneous:**
   ```javascript
-		"🤔 FullName:":                     "Ngo Quy Truong",
-		"🔭 Age":      		            "24",
-		"⚡ Current Level/Position":        "Junior Dev",
-		"👯 Main Skill": 		    "Ruby on Rails...",
-		"📫 How to reach me:":              " 📫 to ngoquytruong1999@gmail.com",
+		"🤔 FullName:":                     'Ngo Quy Truong',
+		"🔭 Age":      		                '2X',
+		"⚡ Current Level/Position":         'Developer',
+		"👯 Main Skill": 		            'Ruby on Rails...',
+		"📫 How to reach me:":              '📫 to ngoquytruong101@gmail.com',
   ```
 ## Skills 👨🏻‍💻
 
@@ -45,7 +45,7 @@ I have more than 1 year experience working with ruby on rails .
 
 💬 Languages: 
 Ruby                       ██████████████████████████████████████████████████████████████████░░░░░░░░░░░░░   80.81% 
-PHP                	   █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   60% 
+PHP                	       █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   60% 
 JavaScript                 ██████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░   75.60% 
 ```
 
