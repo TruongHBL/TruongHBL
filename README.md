@@ -1,5 +1,5 @@
 
-### Hello 👋, I'm [>_NgoQuyTruong](https://www.facebook.com/NgoQuyTruongg/) 
+### Hello 👋
 
 <br/>
 I'm a <strong> Graduate Student </strong> 👨🏽‍💼 in <em> <a href="http://husc.hueuni.edu.vn/"> Hue University of Science </a>.</em> <br />
